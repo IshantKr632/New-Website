@@ -45,6 +45,7 @@
 body {
     background-color: var(--color-background);
     color: var(--color-dark);
+    overflow-y: auto;
 }
 
 .header {
